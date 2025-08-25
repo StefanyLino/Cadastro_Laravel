@@ -1,5 +1,4 @@
-
-# Sistema de Login e Cadastro com Laravel
+# Sistema de Login e Cadastro com Laravel ⋆｡°✩
 >Este projeto é uma aplicação web simples desenvolvida com o poderoso framework Laravel, focada na implementação de um sistema de login e cadastro de usuários. A aplicação oferece uma estrutura robusta e segura para gerenciar autenticação de usuários e pode ser facilmente expandida para atender a outros requisitos de segurança e usabilidade.
 
 ### 🚀 Tecnologias Utilizadas:
