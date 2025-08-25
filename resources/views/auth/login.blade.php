@@ -117,7 +117,6 @@
         </form>
 
         <a href="{{ route('user.index') }}" class="btn btn-outline-danger w-100 btn-custom">Go Back</a>
-        <a href="{{ route('user.index') }}" class="btn btn-outline-danger w-100 btn-custom">Go Back</a>
     </div>
 </div>
 </body>
