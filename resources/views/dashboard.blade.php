@@ -49,7 +49,7 @@
 </head>
 <body>
     <div class="text-center">
-        <h1>Você está logado(a), {{ auth()->user()->name }}!</h1>
+        <h1>You're in, {{ auth()->user()->name }}!</h1>
         <form action="{{ route('logout') }}" method="POST">
             @csrf
             <a href=" {{ route('user.index') }}" class="btn btn-custom">Sair</a>
